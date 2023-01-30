@@ -1,0 +1,2 @@
+# OCR using Azure Cognitive Services 
+This is the demo project for my [tutorial](https://gwergilius.hu/category/tutorials/ocr-by-mobile-client-and-azure-backend/) @ gwergilius.hu about capturing text from images taken by an MAUI application on a mobile device.
